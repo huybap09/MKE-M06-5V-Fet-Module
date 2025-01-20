@@ -21,9 +21,7 @@ Mạch hoạt động như một công tắc điện tử. Khi điều khiển b
 - Chuẩn giao tiếp: Digital
 - Điện áp giao tiếp: TTL 3.3VDC 
 - Công suất chịu tải : 5V-2A:
-- Sử dụng trực tiếp an toàn với các mạch điều khiển trung tâm giao tiếp ở cả hai mức điện áp 3.3VDC và 5VDC như: Arduino, Raspberry Pi, Jetson Nano, Micro:bit,....
 - Chuẩn kết nối: connector XH2.54 3Pins
-- Thuộc hệ sinh thái phần cứng Robotics MakerEdu, tương thích tốt nhất khi sử dụng với các mạch điều khiển trung tâm của MakerEdu và MakerEdu Shield.
 
 ## Kích thước
 <p align="center"> <img src="image/MKE-M06_3.PNG" alt="" /> </p>
@@ -38,7 +36,7 @@ Mạch hoạt động như một công tắc điện tử. Khi điều khiển b
 
 <table><thead>
   <tr>
-    <th>MKE-M05</th>
+    <th>MKE-M06</th>
     <th>Ghi chú</th>
   </tr></thead>
 <tbody>
